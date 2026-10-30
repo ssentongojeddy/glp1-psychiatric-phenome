@@ -1,0 +1,26 @@
+outcome,code,role,n_c1,events_c1,n_c2,events_c2,HR,lo,hi,logrank_p,prop_p,batch
+Ingrowing nail,L60.0,negative-control,266870,3463,266533,3529,1.053,1.004,1.103,0.0319,0.4652,3
+Otitis externa,H60,negative-control,262096,3966,262272,3956,1.083,1.036,1.132,0.0004,0.3557,3
+Allergic rhinitis,J30,negative-control,219195,11435,221283,10779,1.141,1.112,1.172,<0.0001,<0.0001,3
+Melanocytic nevi,D22,negative-control,258833,6212,262115,5455,1.249,1.204,1.295,<0.0001,0.1512,3
+Forearm fracture,S52,negative-control,270936,1320,270491,1381,1.041,0.966,1.123,0.2930,0.5874,3
+Refraction disorders,H52,negative-control,246016,8751,243917,9739,0.936,0.91,0.964,<0.0001,0.0042,3
+Obsessive-compulsive disorder,F42,psych,273225,631,273124,711,0.961,0.863,1.07,0.4630,0.0215,3
+Suicide attempt,T14.91,psych,274722,177,274625,268,0.716,0.592,0.866,0.0005,0.0229,3
+Alcohol related disorders,F10,psych-reward,283337,3123,281332,3609,0.925,0.881,0.97,0.0014,0.1125,1
+Opioid related disorders,F11,psych-reward,288057,2304,287611,2844,0.87,0.823,0.919,<0.0001,0.8159,1
+Cannabis related disorders,F12,psych-reward,289384,2076,288500,2734,0.812,0.767,0.86,<0.0001,0.8475,1
+Cocaine related disorders,F14,psych-reward,292895,474,291803,816,0.619,0.553,0.694,<0.0001,0.6052,1
+Other stimulant related disorders,F15,psych-reward,293181,480,292903,765,0.673,0.6,0.754,<0.0001,0.9617,1
+Nicotine dependence,F17,psych-reward,244278,7241,238963,7541,0.992,0.961,1.025,0.6380,0.0492,1
+Bulimia nervosa,F50.2,psych-reward,294915,68,294913,49,1.489,1.031,2.152,0.0328,0.1322,1
+Pathological gambling,F63.0,psych-reward,295052,35,295081,30,1.265,0.776,2.063,0.3445,0.5186,1
+Depressive episode,F32,psych,213040,15212,207900,16212,0.966,0.945,0.988,0.0025,<0.0001,1
+Major depressive disorder recurrent,F33,psych,264372,9671,267333,10019,1.049,1.02,1.079,0.0008,0.5030,2
+Other anxiety disorders,F41,psych,203212,18875,201417,19374,1.021,1.001,1.042,0.0418,<0.0001,2
+Bipolar disorder,F31,psych,283648,1683,282091,2119,0.835,0.783,0.89,<0.0001,0.7880,2
+Schizophrenia,F20,psych,292311,404,291600,691,0.619,0.548,0.7,<0.0001,0.8486,2
+Stress reaction/adjustment disorders,F43,psych,263326,10303,262227,11114,0.986,0.96,1.013,0.3123,<0.0001,2
+Suicidal ideation,R45.851,psych,289810,1430,287947,2135,0.716,0.67,0.766,<0.0001,0.0383,2
+Insomnia,G47.0,psych,254896,12452,252661,12741,1.035,1.01,1.061,0.0062,<0.0001,2
+Anorexia nervosa,F50.0,psych,295049,29,295022,33,0.939,0.569,1.548,0.8049,0.7066,2

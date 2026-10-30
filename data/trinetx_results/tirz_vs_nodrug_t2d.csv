@@ -1,0 +1,24 @@
+outcome,code,role,n_c1,events_c1,n_c2,events_c2,HR,lo,hi,logrank_p,prop_p,batch
+Major depressive disorder recurrent,F33,psych,107558,2849,108908,3988,0.982,0.935,1.032,0.4773,0.9919,2
+Other anxiety disorders,F41,psych,82653,6565,81922,7737,1.101,1.065,1.139,<0.0001,<0.0001,2
+Bipolar disorder,F31,psych,116026,610,115109,901,0.868,0.782,0.964,0.0079,0.8458,2
+Schizophrenia,F20,psych,119409,93,119002,240,0.487,0.382,0.620,<0.0001,0.3614,2
+Stress reaction/adjustment disorders,F43,psych,108227,3197,107060,4471,0.952,0.909,0.997,0.0387,0.0012,2
+Suicidal ideation,R45.851,psych,118312,372,117377,848,0.591,0.522,0.669,<0.0001,0.8139,2
+Insomnia,G47.0,psych,104935,4164,103140,4895,1.124,1.077,1.172,<0.0001,<0.0001,2
+Alcohol related disorders,F10,psych-reward,121949,1121,121443,1509,1.007,0.930,1.089,0.8694,0.9626,1
+Opioid related disorders,F11,psych-reward,124263,643,123971,1158,0.763,0.692,0.842,<0.0001,0.3721,1
+Cannabis related disorders,F12,psych-reward,124604,624,124205,1103,0.776,0.702,0.857,<0.0001,0.6130,1
+Cocaine related disorders,F14,psych-reward,126147,118,125612,323,0.494,0.399,0.612,<0.0001,0.6705,1
+Other stimulant related disorders,F15,psych-reward,126178,118,125893,296,0.545,0.439,0.677,<0.0001,0.4650,1
+Nicotine dependence,F17,psych-reward,107619,2635,104597,3403,0.972,0.923,1.024,0.2830,0.0302,1
+Bulimia nervosa,F50.2,psych-reward,126679,17,126675,22,1.050,0.550,2.005,0.8816,0.4591,1
+Depressive episode,F32,psych,93363,5291,90625,7148,0.922,0.889,0.956,<0.0001,<0.0001,1
+Ingrowing nail,L60.0,negative-control,123457,1182,123333,1634,0.981,0.909,1.059,0.6297,0.9286,3
+Otitis externa,H60,negative-control,121122,1442,121018,1883,1.066,0.994,1.144,0.0720,0.3641,3
+Allergic rhinitis,J30,negative-control,101858,4627,102381,5149,1.197,1.150,1.247,<0.0001,<0.0001,3
+Melanocytic nevi,D22,negative-control,118795,2389,120699,2674,1.250,1.181,1.322,<0.0001,0.8116,3
+Forearm fracture,S52,negative-control,124780,424,124649,615,0.969,0.854,1.099,0.6208,0.8162,3
+Refraction disorders,H52,negative-control,114540,3687,114176,4869,0.957,0.916,1.000,0.0484,0.0239,3
+Obsessive-compulsive disorder,F42,psych,125803,261,125747,329,1.088,0.922,1.284,0.3182,0.4959,3
+Suicide attempt,T14.91,psych,126557,49,126499,132,0.502,0.360,0.700,<0.0001,0.5044,3

@@ -1,0 +1,23 @@
+outcome,code,role,n_c1,events_c1,n_c2,events_c2,HR,lo,hi,logrank_p,prop_p,batch
+Alcohol related disorders,F10,psych-reward,109955,1046,109670,1470,0.771,0.712,0.835,<0.0001,0.032,1
+Opioid related disorders,F11,psych-reward,112034,605,111926,893,0.751,0.677,0.833,<0.0001,0.1079,1
+Cannabis related disorders,F12,psych-reward,112486,541,111916,906,0.655,0.589,0.729,<0.0001,0.1818,1
+Cocaine related disorders,F14,psych-reward,113752,114,113246,319,0.389,0.314,0.482,<0.0001,0.1337,1
+Other stimulant related disorders,F15,psych-reward,113780,111,113259,327,0.371,0.299,0.461,<0.0001,0.2593,1
+Nicotine dependence,F17,psych-reward,97343,2451,96281,3271,0.794,0.753,0.836,<0.0001,0.0021,1
+Obsessive-compulsive disorder,F42,psych,113581,195,113659,223,0.973,0.802,1.18,0.7824,0.9715,1
+Major depressive disorder recurrent,F33,psych,103570,2594,104797,3118,0.919,0.872,0.968,0.0014,0.3449,2
+Other anxiety disorders,F41,psych,81842,6425,82659,6554,1.078,1.042,1.116,<0.0001,0.0003,2
+Bipolar disorder,F31,psych,110829,546,109981,714,0.812,0.726,0.908,0.0002,0.6230,2
+Schizophrenia,F20,psych,113622,92,113394,214,0.456,0.357,0.582,<0.0001,0.8921,2
+Stress reaction/adjustment disorders,F43,psych,104510,2896,104321,3383,0.945,0.899,0.994,0.0271,0.2677,2
+Depressive episode,F32,psych,87267,4865,87758,5723,0.918,0.883,0.954,<0.0001,<0.0001,2
+Suicidal ideation,R45.851,psych,112837,323,112127,668,0.529,0.463,0.604,<0.0001,0.4465,2
+Insomnia,G47.0,psych,100850,3965,99473,4276,1.0,0.957,1.044,0.9910,0.0030,2
+Ingrowing nail,L60.0,negative-control,111607,1003,111738,1107,1.003,0.921,1.093,0.9389,0.1138,3
+Otitis externa,H60,negative-control,109929,1174,110586,1257,1.05,0.969,1.137,0.2352,0.9638,3
+Allergic rhinitis,J30,negative-control,93589,4356,97095,3994,1.245,1.193,1.3,<0.0001,0.4093,3
+Melanocytic nevi,D22,negative-control,107658,2013,109829,1628,1.411,1.321,1.506,<0.0001,0.001,3
+Forearm fracture,S52,negative-control,112616,391,112664,517,0.855,0.749,0.976,0.0202,0.9641,3
+Refraction disorders,H52,negative-control,104312,2848,104979,2819,1.086,1.03,1.144,0.0021,0.0005,3
+Suicide attempt,T14.91,psych,114127,42,114062,105,0.443,0.309,0.635,<0.0001,0.9029,3

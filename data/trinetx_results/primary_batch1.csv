@@ -1,0 +1,9 @@
+outcome,code,role,n_c1,events_c1,n_c2,events_c2,HR,lo,hi,logrank_p,prop_p,batch
+Alcohol related disorders,F10,psych-reward,263580,2928,262206,3571,0.785,0.747,0.824,<0.0001,0.1428,1
+Opioid related disorders,F11,psych-reward,268787,1844,269119,2161,0.823,0.773,0.876,<0.0001,0.0003,1
+Cannabis related disorders,F12,psych-reward,270471,1495,269140,2072,0.691,0.646,0.738,<0.0001,0.5543,1
+Cocaine related disorders,F14,psych-reward,273239,382,272116,760,0.482,0.426,0.545,<0.0001,0.0010,1
+Other stimulant related disorders,F15,psych-reward,273625,373,272468,780,0.459,0.406,0.52,<0.0001,0.0013,1
+Nicotine dependence,F17,psych-reward,230437,6713,228171,7499,0.851,0.823,0.879,<0.0001,0.0017,1
+Bulimia nervosa,F50.2,psych-reward,275157,26,275169,18,1.394,0.764,2.543,0.2763,0.1980,1
+Pathological gambling,F63.0,psych-reward,275190,25,275202,19,1.268,0.699,2.303,0.4336,0.0554,1

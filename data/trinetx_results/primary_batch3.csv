@@ -1,0 +1,9 @@
+outcome,code,role,n_c1,events_c1,n_c2,events_c2,HR,lo,hi,logrank_p,prop_p,batch
+Ingrowing nail,L60.0,negative-control,249319,2529,250079,2261,1.083,1.023,1.146,0.0059,0.0943,3
+Otitis externa,H60,negative-control,246750,2791,248159,2374,1.141,1.081,1.206,<0.0001,0.0775,3
+Vasomotor and allergic rhinitis,J30,negative-control,213914,9531,220748,8168,1.162,1.128,1.197,<0.0001,0.8211,3
+Melanocytic nevi,D22,negative-control,241826,4859,246248,3367,1.423,1.361,1.487,<0.0001,0.0369,3
+Fracture of forearm,S52,negative-control,251872,1072,251795,1160,0.894,0.822,0.971,0.0079,0.7572,3
+Disorders of refraction and accommodation,H52,negative-control,232931,6609,235369,5669,1.132,1.093,1.173,<0.0001,0.0003,3
+Obsessive-compulsive disorder,F42,psych-compulsive,254424,356,254457,404,0.85,0.737,0.981,0.0256,0.9144,3
+Suicide attempt,T14.91,psych-suicidality,255314,89,255221,188,0.459,0.357,0.591,<0.0001,0.4375,3

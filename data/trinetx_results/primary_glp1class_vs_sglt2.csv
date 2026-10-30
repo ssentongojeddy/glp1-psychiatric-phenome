@@ -1,0 +1,26 @@
+outcome,code,role,n_c1,events_c1,n_c2,events_c2,HR,lo,hi,logrank_p,prop_p,batch
+Alcohol related disorders,F10,psych-reward,263580,2928,262206,3571,0.785,0.747,0.824,<0.0001,0.1428,1
+Opioid related disorders,F11,psych-reward,268787,1844,269119,2161,0.823,0.773,0.876,<0.0001,0.0003,1
+Cannabis related disorders,F12,psych-reward,270471,1495,269140,2072,0.691,0.646,0.738,<0.0001,0.5543,1
+Cocaine related disorders,F14,psych-reward,273239,382,272116,760,0.482,0.426,0.545,<0.0001,0.001,1
+Other stimulant related disorders,F15,psych-reward,273625,373,272468,780,0.459,0.406,0.52,<0.0001,0.0013,1
+Nicotine dependence,F17,psych-reward,230437,6713,228171,7499,0.851,0.823,0.879,<0.0001,0.0017,1
+Bulimia nervosa,F50.2,psych-reward,275157,26,275169,18,1.394,0.764,2.543,0.2763,0.198,1
+Pathological gambling,F63.0,psych-reward,275190,25,275202,19,1.268,0.699,2.303,0.4336,0.0554,1
+Depressive episode,F32,psych,215962,12593,216491,12845,0.944,0.921,0.967,<0.0001,<0.0001,2
+Major depressive disorder recurrent,F33,psych,252880,6480,255509,6528,0.963,0.93,0.997,0.0317,0.6163,2
+Other anxiety disorders,F41,psych,206093,15696,206970,15077,1.006,0.983,1.028,0.6231,<0.0001,2
+Bipolar disorder,F31,psych,267457,1226,266447,1463,0.804,0.745,0.867,<0.0001,0.6415,2
+Schizophrenia,F20,psych,273000,329,272728,509,0.622,0.541,0.715,<0.0001,0.5299,2
+Stress reaction/adjustment disorders,F43,psych,253397,7217,254066,7247,0.961,0.931,0.993,0.0179,0.0219,2
+Suicidal ideation,R45.851,psych,271683,925,270425,1526,0.581,0.536,0.631,<0.0001,0.0248,2
+Insomnia,G47.0,psych,244497,10550,242257,10293,0.977,0.951,1.004,0.0923,<0.0001,2
+Anorexia nervosa,F50.0,psych,275183,14,275204,15,0.901,0.435,1.867,0.7798,0.4546,2
+Ingrowing nail,L60.0,negative-control,249319,2529,250079,2261,1.083,1.023,1.146,0.0059,0.0943,3
+Otitis externa,H60,negative-control,246750,2791,248159,2374,1.141,1.081,1.206,<0.0001,0.0775,3
+Allergic rhinitis,J30,negative-control,213914,9531,220748,8168,1.162,1.128,1.197,<0.0001,0.8211,3
+Melanocytic nevi,D22,negative-control,241826,4859,246248,3367,1.423,1.361,1.487,<0.0001,0.0369,3
+Forearm fracture,S52,negative-control,251872,1072,251795,1160,0.894,0.822,0.971,0.0079,0.7572,3
+Refraction disorders,H52,negative-control,232931,6609,235369,5669,1.132,1.093,1.173,<0.0001,0.0003,3
+Obsessive-compulsive disorder,F42,psych,254424,356,254457,404,0.85,0.737,0.981,0.0256,0.9144,3
+Suicide attempt,T14.91,psych,255314,89,255221,188,0.459,0.357,0.591,<0.0001,0.4375,3

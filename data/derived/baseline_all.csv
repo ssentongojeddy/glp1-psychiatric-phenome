@@ -1,0 +1,214 @@
+comp,var,b1,b2,a1,a2,smd_b,smd_a
+Semaglutide or tirzepatide vs SGLT2i (primary),N,422007,506859,255685,255685,,
+Semaglutide or tirzepatide vs SGLT2i (primary),"Age at Index, mean (SD)",56.9 (13.6),65.8 (12.8),61.2 (12.2),61.3 (12.9),0.67,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"Female, %",58.9,40.6,49.9,49.8,0.37,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"White, %",67.0,53.4,63.1,63.4,0.28,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"Black or African American, %",17.4,15.4,17.1,17.2,0.05,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Hispanic or Latino, %",9.1,8.7,9.4,9.5,0.01,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"Asian, %",3.5,8.1,4.8,4.7,0.20,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Overweight, obesity, %",58.6,34.9,47.0,47.3,0.49,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Sleep disorders, %",39.3,28.8,34.4,34.5,0.22,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Hypertensive diseases, %",70.7,77.9,74.2,74.5,0.17,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"Lipid disorders, %",67.3,70.7,69.5,69.8,0.07,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Ischaemic heart disease, %",18.8,40.2,26.9,27.1,0.48,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"Kidney disease, %",17.5,35.4,24.4,24.8,0.41,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"Anxiety and stress-related disorders, %",34.5,22.8,27.7,27.6,0.26,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Mood disorders, %",30.4,20.3,24.8,24.8,0.23,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Substance use disorders, %",19.8,20.8,20.5,20.6,0.02,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Schizophrenia spectrum, %",1.6,2.0,1.8,1.8,0.03,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Childhood-onset behavioural disorders, %",3.8,1.2,2.0,1.9,0.16,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"Insulin, %",32.5,46.4,38.8,39.3,0.29,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"Antidepressants, %",39.1,28.7,33.4,33.5,0.22,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Antipsychotics, %",12.2,12.5,11.9,11.9,0.01,0.00
+Semaglutide or tirzepatide vs SGLT2i (primary),"Opioid analgesics, %",58.4,58.5,57.4,57.6,0.00,0.01
+Semaglutide or tirzepatide vs SGLT2i (primary),"BMI, mean (SD)",36.7 (8.3),31.1 (7.4),35.3 (7.8),32.8 (7.8),0.71,0.32
+Semaglutide or tirzepatide vs SGLT2i (primary),"HbA1c, mean (SD)",7.4 (1.9),7.7 (1.9),7.5 (1.9),7.8 (1.9),0.13,0.14
+Semaglutide vs SGLT2i,N,452897,906124,374496,374496,,
+Semaglutide vs SGLT2i,"Age at Index, mean (SD)",57.2 (13.6),64.2 (12.9),59.4 (12.7),59.5 (13.0),0.53,0.01
+Semaglutide vs SGLT2i,"Female, %",57.9,40.6,53.0,52.5,0.35,0.01
+Semaglutide vs SGLT2i,"White, %",66.2,54.6,64.9,65.8,0.24,0.02
+Semaglutide vs SGLT2i,"Black or African American, %",17.9,14.8,17.4,17.5,0.08,0.00
+Semaglutide vs SGLT2i,"Hispanic or Latino, %",9.2,9.1,9.5,9.8,0.00,0.01
+Semaglutide vs SGLT2i,"Asian, %",4.0,8.2,4.6,4.5,0.18,0.00
+Semaglutide vs SGLT2i,"Overweight, obesity, %",57.4,35.0,51.0,51.0,0.46,0.00
+Semaglutide vs SGLT2i,"Sleep disorders, %",38.4,27.9,35.3,35.3,0.22,0.00
+Semaglutide vs SGLT2i,"Hypertensive diseases, %",72.0,75.7,73.8,74.1,0.09,0.01
+Semaglutide vs SGLT2i,"Lipid disorders, %",68.8,69.9,70.2,70.4,0.02,0.00
+Semaglutide vs SGLT2i,"Ischaemic heart disease, %",20.1,36.8,23.6,23.8,0.38,0.01
+Semaglutide vs SGLT2i,"Kidney disease, %",18.5,30.3,21.3,21.6,0.28,0.01
+Semaglutide vs SGLT2i,"Anxiety and stress-related disorders, %",33.4,21.8,29.1,28.8,0.26,0.01
+Semaglutide vs SGLT2i,"Mood disorders, %",29.8,19.7,26.3,26.1,0.24,0.00
+Semaglutide vs SGLT2i,"Substance use disorders, %",19.4,19.2,19.5,19.5,0.00,0.00
+Semaglutide vs SGLT2i,"Schizophrenia spectrum, %",1.7,1.8,1.8,1.7,0.01,0.00
+Semaglutide vs SGLT2i,"Childhood-onset behavioural disorders, %",3.4,1.2,2.2,2.2,0.15,0.00
+Semaglutide vs SGLT2i,"Insulin, %",35.2,43.2,37.6,38.3,0.16,0.01
+Semaglutide vs SGLT2i,"Antidepressants, %",38.7,27.6,34.9,34.7,0.24,0.00
+Semaglutide vs SGLT2i,"Antipsychotics, %",11.3,10.5,10.8,10.7,0.03,0.00
+Semaglutide vs SGLT2i,"Opioid analgesics, %",58.6,55.4,57.3,57.3,0.07,0.00
+Semaglutide vs SGLT2i,"BMI, mean (SD)",36.5 (8.3),31.6 (7.5),35.6 (8.0),33.6 (7.9),0.62,0.25
+Semaglutide vs SGLT2i,"HbA1c, mean (SD)",7.6 (1.9),7.9 (1.9),7.7 (1.9),8.0 (2.0),0.14,0.16
+Tirzepatide vs SGLT2i,N,145327,925719,137440,137440,,
+Tirzepatide vs SGLT2i,"Age at Index, mean (SD)",55.9 (13.2),64.3 (12.9),56.7 (12.9),56.5 (13.6),0.64,0.02
+Tirzepatide vs SGLT2i,"Female, %",57.7,39.7,56.1,56.0,0.37,0.00
+Tirzepatide vs SGLT2i,"White, %",69.5,53.4,68.7,69.7,0.33,0.02
+Tirzepatide vs SGLT2i,"Black or African American, %",15.5,14.5,15.7,15.9,0.03,0.01
+Tirzepatide vs SGLT2i,"Hispanic or Latino, %",9.0,8.9,9.1,9.4,0.00,0.01
+Tirzepatide vs SGLT2i,"Asian, %",2.7,8.0,2.9,2.7,0.24,0.01
+Tirzepatide vs SGLT2i,"Overweight, obesity, %",61.1,35.1,59.1,58.9,0.54,0.00
+Tirzepatide vs SGLT2i,"Sleep disorders, %",41.0,27.9,39.8,39.7,0.28,0.00
+Tirzepatide vs SGLT2i,"Hypertensive diseases, %",68.6,75.8,69.8,69.8,0.16,0.00
+Tirzepatide vs SGLT2i,"Lipid disorders, %",66.2,70.0,67.0,67.0,0.08,0.00
+Tirzepatide vs SGLT2i,"Ischaemic heart disease, %",17.2,36.8,18.1,18.0,0.45,0.00
+Tirzepatide vs SGLT2i,"Kidney disease, %",15.2,30.3,16.0,16.0,0.37,0.00
+Tirzepatide vs SGLT2i,"Anxiety and stress-related disorders, %",34.7,21.4,32.9,32.4,0.30,0.01
+Tirzepatide vs SGLT2i,"Mood disorders, %",30.2,19.7,28.8,28.6,0.24,0.00
+Tirzepatide vs SGLT2i,"Substance use disorders, %",18.2,18.9,18.4,18.2,0.02,0.00
+Tirzepatide vs SGLT2i,"Schizophrenia spectrum, %",1.3,1.8,1.3,1.5,0.04,0.01
+Tirzepatide vs SGLT2i,"Childhood-onset behavioural disorders, %",4.2,1.2,3.4,3.4,0.19,0.00
+Tirzepatide vs SGLT2i,"Insulin, %",29.2,43.2,30.2,30.8,0.29,0.01
+Tirzepatide vs SGLT2i,"Antidepressants, %",38.7,27.6,37.3,36.8,0.24,0.01
+Tirzepatide vs SGLT2i,"Antipsychotics, %",11.4,10.5,11.1,11.1,0.03,0.00
+Tirzepatide vs SGLT2i,"Opioid analgesics, %",57.3,55.3,56.8,56.2,0.04,0.01
+Tirzepatide vs SGLT2i,"BMI, mean (SD)",37.6 (8.2),31.6 (7.5),37.3 (8.1),34.8 (8.3),0.76,0.31
+Tirzepatide vs SGLT2i,"HbA1c, mean (SD)",7.3 (1.9),7.9 (1.9),7.3 (1.9),8.0 (2.0),0.31,0.36
+Semaglutide vs DPP-4i,N,466265,611853,275553,275553,,
+Semaglutide vs DPP-4i,"Age at Index, mean (SD)",57.2 (13.6),65.6 (13.4),60.8 (12.7),61.2 (13.3),0.62,0.03
+Semaglutide vs DPP-4i,"Female, %",56.2,46.6,51.1,50.6,0.19,0.01
+Semaglutide vs DPP-4i,"White, %",64.3,37.3,59.1,60.5,0.56,0.03
+Semaglutide vs DPP-4i,"Black or African American, %",17.3,11.1,16.8,17.4,0.18,0.02
+Semaglutide vs DPP-4i,"Hispanic or Latino, %",9.0,7.3,9.6,10.4,0.06,0.02
+Semaglutide vs DPP-4i,"Asian, %",3.8,10.6,5.8,5.7,0.26,0.01
+Semaglutide vs DPP-4i,"Overweight, obesity, %",57.4,20.7,41.5,40.2,0.81,0.02
+Semaglutide vs DPP-4i,"Sleep disorders, %",38.3,17.5,29.0,28.1,0.48,0.02
+Semaglutide vs DPP-4i,"Hypertensive diseases, %",72.0,63.2,71.3,72.3,0.19,0.02
+Semaglutide vs DPP-4i,"Lipid disorders, %",68.8,53.7,66.6,67.4,0.31,0.02
+Semaglutide vs DPP-4i,"Ischaemic heart disease, %",20.1,23.8,23.1,23.9,0.09,0.02
+Semaglutide vs DPP-4i,"Kidney disease, %",18.5,24.6,22.5,23.6,0.15,0.02
+Semaglutide vs DPP-4i,"Anxiety and stress-related disorders, %",32.6,14.7,24.0,23.4,0.43,0.01
+Semaglutide vs DPP-4i,"Mood disorders, %",29.6,13.9,22.7,22.4,0.39,0.01
+Semaglutide vs DPP-4i,"Substance use disorders, %",18.9,11.1,17.0,17.3,0.22,0.01
+Semaglutide vs DPP-4i,"Schizophrenia spectrum, %",1.7,1.8,1.9,2.0,0.01,0.00
+Semaglutide vs DPP-4i,"Childhood-onset behavioural disorders, %",3.4,0.7,1.6,1.5,0.19,0.01
+Semaglutide vs DPP-4i,"Insulin, %",35.2,34.4,38.2,39.4,0.02,0.02
+Semaglutide vs DPP-4i,"Antidepressants, %",38.5,19.4,30.5,30.3,0.43,0.01
+Semaglutide vs DPP-4i,"Antipsychotics, %",11.2,8.5,10.2,10.3,0.09,0.00
+Semaglutide vs DPP-4i,"Opioid analgesics, %",58.4,41.6,53.7,54.2,0.34,0.01
+Semaglutide vs DPP-4i,"BMI, mean (SD)",36.4 (8.3),30.4 (7.4),34.7 (7.7),32.2 (7.6),0.76,0.33
+Semaglutide vs DPP-4i,"HbA1c, mean (SD)",7.6 (1.9),8.0 (2.0),7.8 (1.9),8.1 (2.0),0.22,0.15
+Tirzepatide vs semaglutide,N,142681,351955,142681,142681,,
+Tirzepatide vs semaglutide,"Age at Index, mean (SD)",55.9 (13.2),57.4 (13.8),55.9 (13.2),55.8 (13.9),0.11,0.01
+Tirzepatide vs semaglutide,"Female, %",57.7,56.9,57.7,57.8,0.02,0.00
+Tirzepatide vs semaglutide,"White, %",69.3,64.1,69.3,69.1,0.11,0.00
+Tirzepatide vs semaglutide,"Black or African American, %",15.6,17.6,15.6,15.7,0.05,0.00
+Tirzepatide vs semaglutide,"Hispanic or Latino, %",9.0,9.2,9.0,9.1,0.01,0.00
+Tirzepatide vs semaglutide,"Asian, %",2.8,3.9,2.8,2.8,0.06,0.00
+Tirzepatide vs semaglutide,"Overweight, obesity, %",61.1,58.3,61.1,60.6,0.06,0.01
+Tirzepatide vs semaglutide,"Sleep disorders, %",41.0,38.6,41.0,40.3,0.05,0.01
+Tirzepatide vs semaglutide,"Hypertensive diseases, %",68.7,71.8,68.7,68.1,0.07,0.01
+Tirzepatide vs semaglutide,"Lipid disorders, %",66.1,68.6,66.1,65.7,0.05,0.01
+Tirzepatide vs semaglutide,"Ischaemic heart disease, %",17.2,19.9,17.2,16.9,0.07,0.01
+Tirzepatide vs semaglutide,"Kidney disease, %",15.2,18.2,15.2,15.0,0.08,0.01
+Tirzepatide vs semaglutide,"Anxiety and stress-related disorders, %",34.6,33.5,34.6,34.1,0.02,0.01
+Tirzepatide vs semaglutide,"Mood disorders, %",30.1,29.9,30.1,29.7,0.00,0.01
+Tirzepatide vs semaglutide,"Substance use disorders, %",18.2,19.5,18.2,17.9,0.03,0.01
+Tirzepatide vs semaglutide,"Schizophrenia spectrum, %",1.3,1.7,1.3,1.3,0.03,0.00
+Tirzepatide vs semaglutide,"Childhood-onset behavioural disorders, %",4.2,3.6,4.2,4.1,0.03,0.01
+Tirzepatide vs semaglutide,"Insulin, %",29.3,33.0,29.3,28.9,0.08,0.01
+Tirzepatide vs semaglutide,"Antidepressants, %",38.7,39.0,38.7,38.2,0.01,0.01
+Tirzepatide vs semaglutide,"Antipsychotics, %",11.3,11.6,11.3,11.1,0.01,0.01
+Tirzepatide vs semaglutide,"Opioid analgesics, %",57.5,59.1,57.5,56.8,0.03,0.01
+Tirzepatide vs semaglutide,"BMI, mean (SD)",37.6 (8.3),36.4 (8.2),37.6 (8.3),36.9 (8.3),0.15,0.08
+Tirzepatide vs semaglutide,"HbA1c, mean (SD)",7.3 (1.9),7.4 (1.9),7.3 (1.9),7.4 (1.8),0.09,0.06
+Semaglutide vs no drug (T2D),N,444715,607403,295147,295147,,
+Semaglutide vs no drug (T2D),"Age at Index, mean (SD)",57.2 (13.6),58.2 (15.1),57.0 (13.7),56.9 (15.1),0.07,0.01
+Semaglutide vs no drug (T2D),"Female, %",57.9,55.4,57.4,57.1,0.05,0.01
+Semaglutide vs no drug (T2D),"White, %",66.1,64.7,65.8,65.6,0.03,0.00
+Semaglutide vs no drug (T2D),"Black or African American, %",17.8,20.8,19.1,19.0,0.07,0.00
+Semaglutide vs no drug (T2D),"Hispanic or Latino, %",9.3,10.5,9.9,9.9,0.04,0.00
+Semaglutide vs no drug (T2D),"Asian, %",4.0,2.6,3.1,3.1,0.08,0.00
+Semaglutide vs no drug (T2D),"Overweight, obesity, %",57.4,86.0,77.0,76.0,0.67,0.02
+Semaglutide vs no drug (T2D),"Sleep disorders, %",38.3,40.4,42.0,41.0,0.04,0.02
+Semaglutide vs no drug (T2D),"Hypertensive diseases, %",72.0,72.8,71.8,70.8,0.02,0.02
+Semaglutide vs no drug (T2D),"Lipid disorders, %",68.9,65.8,67.2,66.0,0.07,0.02
+Semaglutide vs no drug (T2D),"Ischaemic heart disease, %",20.2,22.9,21.0,20.2,0.07,0.02
+Semaglutide vs no drug (T2D),"Kidney disease, %",18.5,18.5,18.3,17.6,0.00,0.02
+Semaglutide vs no drug (T2D),"Anxiety and stress-related disorders, %",33.4,32.1,34.7,34.0,0.03,0.02
+Semaglutide vs no drug (T2D),"Mood disorders, %",29.8,31.0,31.8,31.2,0.03,0.01
+Semaglutide vs no drug (T2D),"Substance use disorders, %",19.3,23.7,21.4,21.2,0.10,0.01
+Semaglutide vs no drug (T2D),"Schizophrenia spectrum, %",1.6,3.3,2.1,2.2,0.11,0.01
+Semaglutide vs no drug (T2D),"Childhood-onset behavioural disorders, %",3.4,3.1,3.5,3.5,0.02,0.00
+Semaglutide vs no drug (T2D),"Insulin, %",35.2,37.9,36.4,35.3,0.06,0.02
+Semaglutide vs no drug (T2D),"Antidepressants, %",38.6,41.3,41.5,40.8,0.05,0.01
+Semaglutide vs no drug (T2D),"Antipsychotics, %",11.3,13.9,12.8,12.7,0.08,0.01
+Semaglutide vs no drug (T2D),"Opioid analgesics, %",58.4,68.0,63.9,63.1,0.20,0.02
+Semaglutide vs no drug (T2D),"BMI, mean (SD)",36.4 (8.3),37.1 (8.0),37.7 (8.3),37.3 (8.0),0.09,0.05
+Semaglutide vs no drug (T2D),"HbA1c, mean (SD)",7.6 (1.9),7.2 (1.8),7.6 (1.9),7.2 (1.8),0.23,0.18
+Tirzepatide vs no drug (T2D),N,138521,596852,120137,120137,,
+Tirzepatide vs no drug (T2D),"Age at Index, mean (SD)",55.9 (13.2),58.1 (15.1),56.0 (13.3),55.4 (15.3),0.16,0.04
+Tirzepatide vs no drug (T2D),"Female, %",57.7,54.2,56.9,56.4,0.07,0.01
+Tirzepatide vs no drug (T2D),"White, %",68.9,62.6,67.7,67.6,0.13,0.00
+Tirzepatide vs no drug (T2D),"Black or African American, %",15.6,20.5,16.3,16.1,0.13,0.01
+Tirzepatide vs no drug (T2D),"Hispanic or Latino, %",9.2,10.5,9.6,9.8,0.04,0.01
+Tirzepatide vs no drug (T2D),"Asian, %",2.8,2.6,2.8,2.8,0.01,0.00
+Tirzepatide vs no drug (T2D),"Overweight, obesity, %",60.4,85.9,67.6,68.0,0.60,0.01
+Tirzepatide vs no drug (T2D),"Sleep disorders, %",40.7,40.2,41.2,40.4,0.01,0.02
+Tirzepatide vs no drug (T2D),"Hypertensive diseases, %",68.3,72.6,67.8,66.7,0.10,0.02
+Tirzepatide vs no drug (T2D),"Lipid disorders, %",65.7,65.5,64.6,63.0,0.00,0.03
+Tirzepatide vs no drug (T2D),"Ischaemic heart disease, %",17.1,22.7,17.5,16.5,0.14,0.03
+Tirzepatide vs no drug (T2D),"Kidney disease, %",15.2,18.6,15.3,13.9,0.09,0.04
+Tirzepatide vs no drug (T2D),"Anxiety and stress-related disorders, %",34.3,31.4,33.9,33.4,0.06,0.01
+Tirzepatide vs no drug (T2D),"Mood disorders, %",29.9,30.9,30.1,29.5,0.02,0.01
+Tirzepatide vs no drug (T2D),"Substance use disorders, %",18.0,23.3,18.8,18.8,0.13,0.00
+Tirzepatide vs no drug (T2D),"Schizophrenia spectrum, %",1.3,3.4,1.5,1.6,0.14,0.01
+Tirzepatide vs no drug (T2D),"Childhood-onset behavioural disorders, %",4.2,3.1,4.0,4.0,0.06,0.00
+Tirzepatide vs no drug (T2D),"Insulin, %",29.5,38.2,30.1,27.8,0.19,0.05
+Tirzepatide vs no drug (T2D),"Antidepressants, %",38.4,41.1,39.0,38.4,0.05,0.01
+Tirzepatide vs no drug (T2D),"Antipsychotics, %",11.6,13.9,12.1,11.9,0.07,0.01
+Tirzepatide vs no drug (T2D),"Opioid analgesics, %",57.1,67.8,58.9,58.0,0.22,0.02
+Tirzepatide vs no drug (T2D),"BMI, mean (SD)",37.5 (8.2),37.1 (8.0),38.0 (8.3),37.6 (8.0),0.05,0.05
+Tirzepatide vs no drug (T2D),"HbA1c, mean (SD)",7.3 (1.9),7.2 (1.7),7.3 (1.8),7.2 (1.7),0.04,0.02
+Semaglutide vs no drug (obesity+OSA),"Age at Index, mean (SD)",46.5 (14.4),52.2 (18.5),49.2 (14.3),49.0 (17.4),0.34,0.01
+Semaglutide vs no drug (obesity+OSA),"Female, %",74.0,42.9,63.7,65.0,0.67,0.03
+Semaglutide vs no drug (obesity+OSA),"White, %",70.2,72.2,71.2,70.9,0.04,0.01
+Semaglutide vs no drug (obesity+OSA),"Black or African American, %",14.4,13.4,14.3,14.5,0.03,0.01
+Semaglutide vs no drug (obesity+OSA),"Hispanic or Latino, %",8.6,8.5,8.2,8.1,0.00,0.00
+Semaglutide vs no drug (obesity+OSA),"Asian, %",1.9,1.5,1.6,1.8,0.03,0.01
+Semaglutide vs no drug (obesity+OSA),"Overweight, obesity, %",81.6,26.7,64.1,64.4,1.32,0.00
+Semaglutide vs no drug (obesity+OSA),"Sleep disorders, %",37.2,72.1,63.1,63.9,0.75,0.02
+Semaglutide vs no drug (obesity+OSA),"Hypertensive diseases, %",43.8,45.4,47.8,48.2,0.03,0.01
+Semaglutide vs no drug (obesity+OSA),"Lipid disorders, %",43.7,38.5,44.0,44.4,0.11,0.01
+Semaglutide vs no drug (obesity+OSA),"Anxiety and stress-related disorders, %",45.2,26.0,40.6,40.5,0.41,0.00
+Semaglutide vs no drug (obesity+OSA),"Mood disorders, %",36.2,23.4,34.8,35.0,0.28,0.00
+Semaglutide vs no drug (obesity+OSA),"Substance use disorders, %",15.7,14.0,16.8,16.9,0.05,0.00
+Semaglutide vs no drug (obesity+OSA),"Schizophrenia spectrum, %",0.9,1.3,1.2,1.2,0.04,0.00
+Semaglutide vs no drug (obesity+OSA),"Childhood-onset behavioural disorders, %",8.6,5.2,7.7,7.6,0.14,0.00
+Semaglutide vs no drug (obesity+OSA),"Antidepressants, %",49.3,29.8,45.9,45.9,0.41,0.00
+Semaglutide vs no drug (obesity+OSA),"Antipsychotics, %",11.2,8.3,11.6,11.6,0.10,0.00
+Semaglutide vs no drug (obesity+OSA),"Opioid analgesics, %",57.5,48.7,57.5,58.0,0.18,0.01
+Semaglutide vs no drug (obesity+OSA),"BMI, mean (SD)",37.8 (7.9),36.0 (7.7),37.6 (8.1),38.2 (8.3),0.23,0.07
+Semaglutide vs no drug (obesity+OSA),"HbA1c, mean (SD)",5.5 (0.6),5.6 (0.6),5.6 (0.6),5.5 (0.6),0.05,0.03
+Semaglutide vs no drug (obesity+OSA),N,398880,861897,185404,185404,,
+Tirzepatide vs no drug (obesity+OSA),N,228910,877389,135067,135067,,
+Tirzepatide vs no drug (obesity+OSA),"Age at Index, mean (SD)",47.6 (13.7),52.3 (18.5),49.6 (13.7),49.4 (17.1),0.29,0.01
+Tirzepatide vs no drug (obesity+OSA),"Female, %",70.9,42.9,62.8,64.0,0.59,0.02
+Tirzepatide vs no drug (obesity+OSA),"White, %",73.9,72.3,74.4,74.3,0.03,0.00
+Tirzepatide vs no drug (obesity+OSA),"Black or African American, %",11.8,13.4,12.1,12.2,0.05,0.00
+Tirzepatide vs no drug (obesity+OSA),"Hispanic or Latino, %",7.9,8.4,7.7,7.9,0.02,0.01
+Tirzepatide vs no drug (obesity+OSA),"Asian, %",1.7,1.5,1.6,1.6,0.02,0.00
+Tirzepatide vs no drug (obesity+OSA),"Overweight, obesity, %",79.9,26.8,67.0,67.3,1.26,0.01
+Tirzepatide vs no drug (obesity+OSA),"Sleep disorders, %",40.8,72.1,63.5,63.9,0.67,0.01
+Tirzepatide vs no drug (obesity+OSA),"Hypertensive diseases, %",43.5,45.5,47.6,47.8,0.04,0.00
+Tirzepatide vs no drug (obesity+OSA),"Lipid disorders, %",45.1,38.6,46.0,46.4,0.13,0.01
+Tirzepatide vs no drug (obesity+OSA),"Anxiety and stress-related disorders, %",45.4,26.1,42.7,42.2,0.41,0.01
+Tirzepatide vs no drug (obesity+OSA),"Mood disorders, %",35.2,23.4,35.4,35.3,0.26,0.00
+Tirzepatide vs no drug (obesity+OSA),"Substance use disorders, %",15.2,14.1,16.6,16.7,0.03,0.00
+Tirzepatide vs no drug (obesity+OSA),"Schizophrenia spectrum, %",0.8,1.3,1.1,1.1,0.05,0.00
+Tirzepatide vs no drug (obesity+OSA),"Childhood-onset behavioural disorders, %",8.9,5.2,8.3,8.1,0.15,0.01
+Tirzepatide vs no drug (obesity+OSA),"Ischaemic heart disease, %",7.8,12.7,10.1,10.2,0.16,0.00
+Tirzepatide vs no drug (obesity+OSA),"Kidney failure, %",5.4,7.9,6.8,6.7,0.10,0.00
+Tirzepatide vs no drug (obesity+OSA),"Antidepressants, %",47.8,30.0,46.4,46.1,0.37,0.01
+Tirzepatide vs no drug (obesity+OSA),"Antipsychotics, %",11.4,8.4,12.0,11.8,0.10,0.01
+Tirzepatide vs no drug (obesity+OSA),"Opioid analgesics, %",57.1,49.0,57.7,57.9,0.16,0.01
+Tirzepatide vs no drug (obesity+OSA),"Insulin, %",4.8,3.9,4.9,4.8,0.05,0.00
+Tirzepatide vs no drug (obesity+OSA),"BMI, mean (SD)",37.8 (7.8),36.0 (7.7),37.7 (7.9),38.3 (8.2),0.23,0.07
+Tirzepatide vs no drug (obesity+OSA),"HbA1c, mean (SD)",5.5 (0.5),5.6 (0.6),5.5 (0.5),5.5 (0.6),0.08,0.02

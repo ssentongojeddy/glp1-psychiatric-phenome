@@ -1,0 +1,24 @@
+N|422007;506859;255685;255685
+Age at Index|56.9 ± 13.6;65.8 ± 12.8;61.2 ± 12.2;61.3 ± 12.9
+Female|58.934%;40.56%;49.929%;49.809%
+White|67.027%;53.385%;63.137%;63.384%
+Black or African American|17.404%;15.383%;17.055%;17.221%
+Hispanic or Latino|9.073%;8.693%;9.364%;9.528%
+Asian|3.46%;8.057%;4.799%;4.696%
+Overweight, obesity|58.579%;34.9%;47.048%;47.293%
+Sleep disorders|39.273%;28.774%;34.415%;34.482%
+Hypertensive diseases|70.677%;77.928%;74.196%;74.52%
+Lipid disorders|67.335%;70.665%;69.534%;69.758%
+Ischaemic heart disease|18.823%;40.188%;26.854%;27.12%
+Kidney disease|17.52%;35.403%;24.434%;24.774%
+Anxiety and stress-related disorders|34.49%;22.752%;27.652%;27.593%
+Mood disorders|30.41%;20.266%;24.775%;24.809%
+Substance use disorders|19.805%;20.757%;20.483%;20.617%
+Schizophrenia spectrum|1.572%;1.969%;1.758%;1.77%
+Childhood-onset behavioural disorders|3.79%;1.223%;2.011%;1.903%
+Insulin|32.547%;46.429%;38.817%;39.343%
+Antidepressants|39.105%;28.731%;33.417%;33.474%
+Antipsychotics|12.188%;12.462%;11.91%;11.869%
+Opioid analgesics|58.409%;58.453%;57.354%;57.611%
+BMI|36.7 ± 8.32;31.1 ± 7.43;35.3 ± 7.77;32.8 ± 7.81
+HbA1c|7.4 ± 1.87;7.65 ± 1.88;7.53 ± 1.88;7.79 ± 1.95

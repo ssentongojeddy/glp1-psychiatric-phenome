@@ -1,0 +1,25 @@
+outcome,code,role,n_c1,events_c1,n_c2,events_c2,HR,lo,hi,logrank_p,prop_p,batch
+Ingrowing nail,L60.0,negative-control,132100,781,131847,1265,0.972,0.885,1.066,0.5442,0.1382,3
+Otitis externa,H60,negative-control,128511,1329,128157,2177,0.958,0.892,1.029,0.2364,0.0619,3
+Allergic rhinitis,J30,negative-control,103186,4263,100155,6340,0.947,0.909,0.985,0.0075,<0.0001,3
+Melanocytic nevi,D22,negative-control,122535,3080,126494,3894,1.273,1.212,1.337,<0.0001,0.0019,3
+Forearm fracture,S52,negative-control,132874,355,132188,835,0.681,0.599,0.775,<0.0001,0.7813,3
+Refraction disorders,H52,negative-control,123972,1620,120716,3388,0.703,0.661,0.747,<0.0001,0.3327,3
+Obsessive-compulsive disorder,F42,psych,133303,409,133088,568,1.138,0.997,1.300,0.0560,0.1555,3
+Suicide attempt,T14.91,psych,134803,38,134760,170,0.343,0.239,0.491,<0.0001,0.0936,3
+Alcohol related disorders,F10,psych-reward,126798,1026,126444,1559,1.038,0.956,1.127,0.3728,0.0008,1
+Opioid related disorders,F11,psych-reward,130181,375,129434,1077,0.525,0.465,0.593,<0.0001,0.0030,1
+Cannabis related disorders,F12,psych-reward,129781,535,129492,1238,0.662,0.596,0.735,<0.0001,0.0295,1
+Cocaine related disorders,F14,psych-reward,131733,74,131383,250,0.462,0.354,0.604,<0.0001,0.6286,1
+Other stimulant related disorders,F15,psych-reward,131523,84,131423,304,0.395,0.309,0.506,<0.0001,0.0293,1
+Nicotine dependence,F17,psych-reward,115969,1856,112917,2996,0.867,0.817,0.921,<0.0001,<0.0001,1
+Bulimia nervosa,F50.2,psych-reward,132065,33,132041,80,0.601,0.396,0.911,0.0155,0.9832,1
+Depressive episode,F32,psych,91508,4671,86920,8407,0.749,0.722,0.777,<0.0001,<0.0001,1
+Major depressive disorder recurrent,F33,psych,117943,2967,119934,5733,0.789,0.753,0.826,<0.0001,<0.0001,2
+Other anxiety disorders,F41,psych,80010,6821,79606,9662,1.038,1.005,1.072,0.0236,<0.0001,2
+Bipolar disorder,F31,psych,130487,486,128931,1197,0.585,0.525,0.652,<0.0001,0.0007,2
+Schizophrenia,F20,psych,134943,43,134784,156,0.400,0.283,0.565,<0.0001,0.4483,2
+Stress reaction/adjustment disorders,F43,psych,118618,3424,116999,5757,0.882,0.845,0.922,<0.0001,<0.0001,2
+Suicidal ideation,R45.851,psych,133225,319,132382,1121,0.435,0.383,0.494,<0.0001,0.0023,2
+Insomnia,G47.0,psych,106382,3831,112116,6256,0.955,0.916,0.995,0.0297,<0.0001,2
+Anorexia nervosa,F50.0,psych,135299,25,135236,37,1.043,0.617,1.763,0.8758,0.9419,2

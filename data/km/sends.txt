@@ -1,0 +1,5 @@
+tirz_sglt2_b2|Major depressive disorder, recurrent:95.572,95.306|Other anxiety disorders:86.425,88.072|Bipolar disorder:99.221,99.038|Schizophrenia:99.881,99.748|Suicidal ideations:99.502,99.145
+tirz_sglt2_b1|Alcohol related disorders:98.463,98.397|Opioid related disorders:99.085,98.856|Cannabis related disorders:99.163,98.868|Cocaine related disorders:99.843,99.666|Other stimulant related disorders:99.846,99.659|Nicotine dependence:95.963,95.37|Depressive episode:90.716,89.92
+tirz_sglt2_b3|Fracture of forearm:99.371,99.316|Suicide attempt:99.941,99.888
+sema_sglt2_b3|Fracture of forearm:99.312,99.304|Obsessive-compulsive disorder:99.762,99.754|Suicide attempt:99.935,99.901
+sema_sglt2_b2|Depressive episode:91.054,91.047|Bipolar disorder:99.312,99.192|Schizophrenia:99.831,99.755|Suicidal ideations:99.441,99.243
